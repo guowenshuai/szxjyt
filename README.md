@@ -1,3 +1,3 @@
-# xjyt
+# all apps
 
-xjyt application store
+application store
