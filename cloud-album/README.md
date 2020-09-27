@@ -1,4 +1,4 @@
-# <XJYT-Cloud-Album>
+# <Cloud-Album>
 
 Before submitting a PR containing your team's project information:
 - Make sure you rename this file to contain your project's name
@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 
-**Our project name is XJYT-Cloud-Album, We'are simon, Allen and Joe in Slack. Our team is one of filecoin miner and also we're developing IPFS applications**
+**Our project name is Cloud-Album, We'are simon, Allen and Joe in Slack. Our team is one of filecoin miner and also we're developing IPFS applications**
 
 ## (1) Brief Project Description
 
@@ -18,7 +18,9 @@ Before submitting a PR containing your team's project information:
 ## (2) Link to Project UI
 
 - [ui](https://github.com/guowenshuai/szxjyt/tree/master/cloud-album)
-- [try it](https://www.szxjyt.cn/xjyt/product/1)
+- [try it](https://github.com/guowenshuai/szxjyt/tree/master/cloud-album/QRcode.png)
+
+only android version now
 
 
 ## (3) What does your application/UI do?
